@@ -19,5 +19,5 @@
 
   <summary>라즈베리파이 인체감지센서 사진저장영상(쇼츠)</summary>
 
-[!video Label](https://youtube.com/shorts/mIKlosAOg3g?feature=share)
+[링크](https://youtube.com/shorts/mIKlosAOg3g?feature=share)
 </details>
