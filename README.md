@@ -11,3 +11,13 @@
 [![Video Label](http://img.youtube.com/vi/iO1M4_0578o/hqdefault.jpg)](https://youtu.be/iO1M4_0578o)
 
 </details>
+
+<details>
+  <summary>라즈베리파이 인체감지센서 작동영상</summary>
+
+[![Video Label](http://img.youtube.com/vi/6FNsxKsBllM/hqdefault.jpg)](https://youtu.be/6FNsxKsBllM)
+
+  <summary>라즈베리파이 인체감지센서 사진저장영상(쇼츠)</summary>
+
+[!video Label](https://youtube.com/shorts/mIKlosAOg3g?feature=share)
+</details>
