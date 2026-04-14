@@ -1,0 +1,15 @@
+<!DOCTYPE html>                                          <!--웹 브라우저에 해당 문서가 HTML5 표준으로 작성되었음을 알리는 선언문-->
+<html>
+  <head>
+    <meta charset="UTF-8:">                              <!--한글 및 특수문자 꺠짐 방지를 위해 문서의 문자 인코딩 방식을 UTF-8로 지정-->
+    <title> LED TEST </title>
+  </head>
+  <body>
+    <h1> LED ON OFF </h1>                                <!--화면 상단에 가장 큰 텍스트 크기(Heading 1)로 "LED ON OFF" 제목 출력-->
+    <form action="/data" method="post">                  <!--사용자 입력을 서버로 전송하기 위한 데이터 폼 생성(데이터 도착지:FLask 서버의 '/data'라우트 경로)-->
+      <input type="submit" name="led" value="on">        <!--화면에 "on" 텍스트가 표기된 제출 버튼 생성-->
+      <input type="submit" name="led" value="off">       <!--화면에 "off" 텍스트가 표기된 제출 버튼 생성-->
+    </form>
+  </body>
+</html>
+
