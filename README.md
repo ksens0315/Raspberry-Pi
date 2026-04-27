@@ -21,3 +21,12 @@
 
 [링크](https://youtube.com/shorts/mIKlosAOg3g?feature=share)
 </details>
+
+<details>
+  <summary>라즈베리파이 플라스크 웹서버영상</summary>
+
+[![Video Label](http://img.youtube.com/vi/tOWQGLChXxI/hqdefault.jpg)](https://youtu.be/tOWQGLChXxI)
+
+[![Video Label](http://img.youtube.com/vi/OurmHkFnsQo/hqdefault.jpg)](https://youtu.be/OurmHkFnsQo)
+
+</details>
