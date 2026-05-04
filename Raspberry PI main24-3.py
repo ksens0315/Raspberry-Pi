@@ -3,7 +3,7 @@ import json                                                 # JSON 데이터 처
 import tkinter                                              # GUI 창 만드는 라이브러리
 import tkinter.font                                         # tkinter 폰트 설정 라이브러리
  
-API_KEY = "95d1d520b913dababccbd16d10011700"                # OpenWeatherMap에서 발급받은 API 키 입력 필요
+API_KEY = "95d1d520b913dababccbd16d100117**"                # OpenWeatherMap에서 발급받은 API 키 입력 필요 *은 AIP  보안을위한 가림문자
  
 def tick1Min():
     url = f"https://api.openweathermap.org/data/2.5/weather?q=Seoul&appid={API_KEY}&units=metric"      # 서울 날씨 요청 URL
