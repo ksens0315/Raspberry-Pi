@@ -38,3 +38,13 @@
 
 
 </details>
+
+</details>
+
+<details>
+  <summary>텔레그램으로 일기예보를 알려주는 알리미 만들기</summary>
+
+[![Video Label](http://img.youtube.com/vi/0Pcwgl5kvuU/hqdefault.jpg)](https://youtu.be/0Pcwgl5kvuU)
+
+
+</details>
