@@ -56,7 +56,6 @@
 [![Video Label](http://img.youtube.com/vi/kKSsNRw6r7U/hqdefault.jpg)](https://youtu.be/kKSsNRw6r7U)
 
   <summary스레드로 LED 동시 작동영상</summary>
-
 [링크](https://youtube.com/shorts/pbVSt2YGNgs?feature=share)
 
 </details>
