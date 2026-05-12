@@ -20,6 +20,7 @@
   <summary>라즈베리파이 인체감지센서 사진저장영상(쇼츠)</summary>
 
 [링크](https://youtube.com/shorts/mIKlosAOg3g?feature=share)
+
 </details>
 
 <details>
@@ -36,9 +37,6 @@
 
 [![Video Label](http://img.youtube.com/vi/EbBHFqPsCRw/hqdefault.jpg)](https://youtu.be/EbBHFqPsCRw)
 
-
-</details>
-
 </details>
 
 <details>
@@ -49,5 +47,19 @@
   <summary>텔레그램으로 일기예보를 알려주는 알리미 만들기(쇼츠)</summary>
 
 [링크](https://youtube.com/shorts/O3Zc8TgmPrY?feature=share)
+
+</details>
+
+<details>
+  <summary>MQTT 통신으로 제어하는 장치 만들기</summary>
+
+[![Video Label](http://img.youtube.com/vi/kKSsNRw6r7U/hqdefault.jpg)](https://youtu.be/kKSsNRw6r7U)
+
+</details>
+
+
+
+
+
 
 </details>
