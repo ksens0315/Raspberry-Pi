@@ -60,9 +60,20 @@
 
 </details>
 
+<details>
+  
+  <summary>인공지능 음성을 인식하여 날씨 정보 알려주는 장치 만들기</summary>
+
+[![Video Label](http://img.youtube.com/vi/GBZH1HPu6hs/hqdefault.jpg)](https://youtu.be/GBZH1HPu6hs)
 
 
+</details>
 
+<details>
+  
+  <summary>OpenCV 졸음방지 디바이스 만들기</summary>
+
+[![Video Label](http://img.youtube.com/vi/GAvd42PIyTs/hqdefault.jpg)](https://youtu.be/GAvd42PIyTs)
 
 
 </details>
